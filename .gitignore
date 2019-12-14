@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+Tests.cpp
+*.db
+Inventory Manager/.vs/Inventory Manager/v15/.suo
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.idb
